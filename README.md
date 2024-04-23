@@ -1,4 +1,4 @@
-# form-validatio-react
+# form-validation-react
 Form validation in react js
 # Steps for Running the project 
 + public/index.html (this is where your React app will be loaded inside the root element)
